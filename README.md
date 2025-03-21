@@ -4,7 +4,7 @@
 
 1. Run Unit Test.
 2. Build JAR file.
-3. Run App .
+3. Run App.
 4. Verify App is working.
 5. Create Docker file.
 6. Build Image.
